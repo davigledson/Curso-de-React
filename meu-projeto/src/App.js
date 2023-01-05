@@ -7,6 +7,8 @@ import Frase from './components/Frase';
 import List from './components/List';
 import Evento from './components/Evento';
 import Form from './components/Form';
+import Condicional from './components/Condicional';
+
 function App() {
   const n ='Silva'
  return (
@@ -39,6 +41,8 @@ function App() {
         <Form/>
         
         <Evento/>
+
+        <Condicional/>
    </div>
         
               
