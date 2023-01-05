@@ -33,10 +33,12 @@ function App() {
         
         <h1>Testeando Eventos</h1>
 
-        <Evento numero='1'/>
-        <Evento numero='2'/>
+        <Evento />
+        
 
         <Form/>
+        
+        <Evento/>
    </div>
         
               
